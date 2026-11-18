@@ -1,0 +1,1891 @@
+{
+  "updated_at": "2026-11-18",
+  "counts": {
+    "unique_figure_links": 69,
+    "local_images": 72,
+    "apps_with_figure_links": 61,
+    "unique_video_links": 14,
+    "local_videos": 13,
+    "online_only_videos": 1,
+    "apps_with_video_links": 10
+  },
+  "images": [
+    {
+      "application_ids": [
+        "R01-filters"
+      ],
+      "paper_id": "R01",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/R01-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-76950-1/MediaObjects/41467_2026_76950_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-76950-1/MediaObjects/41467_2026_76950_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-026-76950-1/figures/4",
+      "evidence": "Fig. 4: In-sensor visual information processing.",
+      "width": 1999,
+      "height": 1748,
+      "bytes": 642141,
+      "sha256": "d261710dea8631e9c5be4f00e2ee47e01e5042364eab0c2b82c1aaeee9c7c6a7",
+      "thumbnail": "assets/media/thumbs/R01-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: In-sensor visual information processing.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T01-trajectory"
+      ],
+      "paper_id": "T01",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T01-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-023-01379-2/figures/3",
+      "evidence": "Fig. 3: In-sensor motion perception with an optoelectronic graded neuron array.",
+      "width": 1736,
+      "height": 2608,
+      "bytes": 997886,
+      "sha256": "4ca5390d2a55a734e00836566d1a1449756de88565b2ac30408bea15e78fa541",
+      "thumbnail": "assets/media/thumbs/T01-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: In-sensor motion perception with an optoelectronic graded neuron array.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T01-action"
+      ],
+      "paper_id": "T01",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T01-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-023-01379-2/figures/4",
+      "evidence": "Fig. 4: Action recognition based on bioinspired vision sensors and conventional image sensors.",
+      "width": 1506,
+      "height": 1673,
+      "bytes": 471727,
+      "sha256": "7271b0b226cbe2a6249d944731c8074f481b9ebd3d2c98a6277839d5c6384d56",
+      "thumbnail": "assets/media/thumbs/T01-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Action recognition based on bioinspired vision sensors and conventional image sensors.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T02-speed",
+        "T02-prediction"
+      ],
+      "paper_id": "T02",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T02-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-023-37886-y/figures/3",
+      "evidence": "Fig. 3: Motion recognition and prediction.",
+      "width": 1995,
+      "height": 1358,
+      "bytes": 236443,
+      "sha256": "f3ca124e2bc9b6f1884f08e85ebab8d7b595d59b916859d3d211d558ed63fa60",
+      "thumbnail": "assets/media/thumbs/T02-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Motion recognition and prediction.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T02-traffic"
+      ],
+      "paper_id": "T02",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T02-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-023-37886-y/figures/4",
+      "evidence": "Fig. 4: Intelligent traffic simulation with RP-RC systems.",
+      "width": 1998,
+      "height": 1120,
+      "bytes": 437378,
+      "sha256": "ecf99531c34800dc395f231bb1464b2a9d204e2230ec70ec60592b08b72a1b92",
+      "thumbnail": "assets/media/thumbs/T02-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Intelligent traffic simulation with RP-RC systems.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T03-snn"
+      ],
+      "paper_id": "T03",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T03-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-023-01055-2/MediaObjects/41928_2023_1055_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-023-01055-2/MediaObjects/41928_2023_1055_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-023-01055-2/figures/4",
+      "evidence": "Fig. 4: In-sensor SNN for motion recognition.",
+      "width": 1799,
+      "height": 1652,
+      "bytes": 733214,
+      "sha256": "7386b901dc36c9afa7c3e6d111fbf31126a164d7b7ecd95ac2d7838295c2de89",
+      "thumbnail": "assets/media/thumbs/T03-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: In-sensor SNN for motion recognition.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T04-glare"
+      ],
+      "paper_id": "T04",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T04-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01208-x/MediaObjects/41928_2024_1208_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01208-x/MediaObjects/41928_2024_1208_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-024-01208-x/figures/4",
+      "evidence": "Fig. 4: Spectra-adapted vision sensor for imaging and classifying spectrally distinctive features.",
+      "width": 1772,
+      "height": 1608,
+      "bytes": 1656838,
+      "sha256": "8c31b540c18f2b9c479b1f7a23ed813bf96a434cbb2a5ed2237812832253e59d",
+      "thumbnail": "assets/media/thumbs/T04-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Spectra-adapted vision sensor for imaging and classifying spectrally distinctive features.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T05-ocnn"
+      ],
+      "paper_id": "T05",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T05-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01280-3/MediaObjects/41928_2024_1280_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01280-3/MediaObjects/41928_2024_1280_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-024-01280-3/figures/4",
+      "evidence": "Fig. 4: OCNN based on the MP1R- and 1T1R NVM array for image recognition.",
+      "width": 2170,
+      "height": 2236,
+      "bytes": 745574,
+      "sha256": "f23533ebc42dffca4eb5dc5e7a59afa988f0a205a1f5ee6aef133cb252bf0287",
+      "thumbnail": "assets/media/thumbs/T05-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: OCNN based on the MP1R- and 1T1R NVM array for image recognition.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T05-reservoir"
+      ],
+      "paper_id": "T05",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T05-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01280-3/MediaObjects/41928_2024_1280_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01280-3/MediaObjects/41928_2024_1280_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-024-01280-3/figures/5",
+      "evidence": "Fig. 5: Optical in-sensor reservoir neural network using short-term memory for event image recognition.",
+      "width": 2170,
+      "height": 1884,
+      "bytes": 1016113,
+      "sha256": "5a49ae41dd2d034c1215a7e148846a92fc5f35db8d2c70e9fb363684591f75e4",
+      "thumbnail": "assets/media/thumbs/T05-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Optical in-sensor reservoir neural network using short-term memory for event image recognition.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T05-osnn"
+      ],
+      "paper_id": "T05",
+      "label": "Fig. 6",
+      "figure_number": 6,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T05-Fig6.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01280-3/MediaObjects/41928_2024_1280_Fig6_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-024-01280-3/MediaObjects/41928_2024_1280_Fig6_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-024-01280-3/figures/6",
+      "evidence": "Fig. 6: OSNN with optical sensory spiking neurons for image recognition.",
+      "width": 2168,
+      "height": 1995,
+      "bytes": 627115,
+      "sha256": "e9fee484067617f3c98c4472cd238352dff6f1e2332fa5fb1244badf6a56d52f",
+      "thumbnail": "assets/media/thumbs/T05-Fig6.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 6: OSNN with optical sensory spiking neurons for image recognition.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T06-recognition"
+      ],
+      "paper_id": "T06",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T06-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-024-01794-z/figures/4",
+      "evidence": "Fig. 4: Image pre-processing using the NV-OEM-based sensing system.",
+      "width": 1056,
+      "height": 1750,
+      "bytes": 599922,
+      "sha256": "df8a1e453c93b8a3e147807a7897f4e75e3b181f5fd67face034556eaa44344b",
+      "thumbnail": "assets/media/thumbs/T06-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Image pre-processing using the NV-OEM-based sensing system.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T06-tracking"
+      ],
+      "paper_id": "T06",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T06-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-024-01794-z/figures/5",
+      "evidence": "Fig. 5: Object tracking by the hybrid D-OEM and NV-OEM sensory system.",
+      "width": 2167,
+      "height": 2102,
+      "bytes": 1105665,
+      "sha256": "5de91bfbb9bc56aaa0df429563ae9cd3d9980bb6c319195efbb88cee4d22cdcb",
+      "thumbnail": "assets/media/thumbs/T06-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Object tracking by the hybrid D-OEM and NV-OEM sensory system.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T06-action"
+      ],
+      "paper_id": "T06",
+      "label": "Fig. 6",
+      "figure_number": 6,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T06-Fig6.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_Fig6_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_Fig6_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-024-01794-z/figures/6",
+      "evidence": "Fig. 6: Fully OEM-based in-sensor RC system.",
+      "width": 1949,
+      "height": 2427,
+      "bytes": 826290,
+      "sha256": "02929c8bbdecb675601c6dea7d5704ab093536c131f5122cedec0f06658e1906",
+      "thumbnail": "assets/media/thumbs/T06-Fig6.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 6: Fully OEM-based in-sensor RC system.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T07-digits"
+      ],
+      "paper_id": "T07",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T07-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-59935-4/figures/3",
+      "evidence": "Fig. 3: Chiral decomposition and image recognition of mixed circularly polarized images.",
+      "width": 1996,
+      "height": 1904,
+      "bytes": 558790,
+      "sha256": "1f5f1bd6478172dcad3e851d6cdb36f56dbb7add3e349da445574bfe1abcbc5f",
+      "thumbnail": "assets/media/thumbs/T07-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Chiral decomposition and image recognition of mixed circularly polarized images.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T07-1d-convolution"
+      ],
+      "paper_id": "T07",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T07-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-59935-4/figures/4",
+      "evidence": "Fig. 4: Zero- and one-dimensional mixed-multimodal image processing.",
+      "width": 2000,
+      "height": 1791,
+      "bytes": 453413,
+      "sha256": "fa40f289a985dc399db99a726ae97e4357e1ff343982cb1caf4ea6ec9e5b1330",
+      "thumbnail": "assets/media/thumbs/T07-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Zero- and one-dimensional mixed-multimodal image processing.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T07-2d-convolution"
+      ],
+      "paper_id": "T07",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T07-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-59935-4/figures/5",
+      "evidence": "Fig. 5: Two-dimensional polarization-sensitive mixed-multimodal imaging.",
+      "width": 1741,
+      "height": 1801,
+      "bytes": 1212701,
+      "sha256": "0abd05cdc5f16ada1985c474fbe7dab7e5b1958751632baaf42fb24ca42efe44",
+      "thumbnail": "assets/media/thumbs/T07-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Two-dimensional polarization-sensitive mixed-multimodal imaging.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T08-fan"
+      ],
+      "paper_id": "T08",
+      "label": "Extended Data Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T08-Ext5.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig10_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig10_ESM.jpg",
+      "page": "https://www.nature.com/articles/s41565-025-01973-6/figures/10",
+      "evidence": "Extended Data Fig. 5 Assessment of event-based spike responses.",
+      "width": 5507,
+      "height": 4143,
+      "bytes": 1303411,
+      "sha256": "f02146d894a6f29dfccd57dc682e50cf0817b5f8ece0f4ce5390cb15b034b1be",
+      "thumbnail": "assets/media/thumbs/T08-Ext5.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 5 Assessment of event-based spike responses.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T08-adaptive-vision"
+      ],
+      "paper_id": "T08",
+      "label": "Extended Data Fig. 8",
+      "figure_number": 8,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T08-Ext8.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig13_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig13_ESM.jpg",
+      "page": "https://www.nature.com/articles/s41565-025-01973-6/figures/13",
+      "evidence": "Extended Data Fig. 8 Vision based on the RPD and a commercial EC.",
+      "width": 4620,
+      "height": 4158,
+      "bytes": 1079606,
+      "sha256": "c40d26832d27ed18d5311c665cb972b8e3afb42ed50fe50b64ab802eb4b9baa0",
+      "thumbnail": "assets/media/thumbs/T08-Ext8.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 8 Vision based on the RPD and a commercial EC.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T08-adaptive-vision"
+      ],
+      "paper_id": "T08",
+      "label": "Extended Data Fig. 9",
+      "figure_number": 9,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T08-Ext9.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig14_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig14_ESM.jpg",
+      "page": "https://www.nature.com/articles/s41565-025-01973-6/figures/14",
+      "evidence": "Extended Data Fig. 9 Quality of the reconstructed images.",
+      "width": 5507,
+      "height": 1400,
+      "bytes": 331147,
+      "sha256": "b6539296d959dd2f5476ef89acb39451c8ad4dfc03d15dc2b37931feb5c25d56",
+      "thumbnail": "assets/media/thumbs/T08-Ext9.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 9 Quality of the reconstructed images.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T08-adaptive-vision"
+      ],
+      "paper_id": "T08",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T08-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-025-01973-6/figures/5",
+      "evidence": "Fig. 5: RPD-based adaptive machine vision.",
+      "width": 2168,
+      "height": 1353,
+      "bytes": 1434936,
+      "sha256": "375af1eefd2cb418e5b23e0cc57c5c38a37dfe5b43396399ebbd3fb3032ff1f4",
+      "thumbnail": "assets/media/thumbs/T08-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: RPD-based adaptive machine vision.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T09-action"
+      ],
+      "paper_id": "T09",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T09-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-68013-8/figures/3",
+      "evidence": "Fig. 3: Real-video validation of in-sensor event + memory sensing.",
+      "width": 2048,
+      "height": 1689,
+      "bytes": 1216836,
+      "sha256": "ea28207fb6046f95fdc88203389d4aab63732a840d7883b0e47fe279fd8c9894",
+      "thumbnail": "assets/media/thumbs/T09-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Real-video validation of in-sensor event + memory sensing.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T09-action"
+      ],
+      "paper_id": "T09",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T09-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-68013-8/figures/4",
+      "evidence": "Fig. 4: Dynamic image classification using single and fused modalities.",
+      "width": 2046,
+      "height": 1376,
+      "bytes": 419226,
+      "sha256": "d2babb0da8aeaa0fd55fa8af2c46f9888cf1392f7a6f5933729c2d45aec00030",
+      "thumbnail": "assets/media/thumbs/T09-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Dynamic image classification using single and fused modalities.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T09-trajectory",
+        "T09-speed"
+      ],
+      "paper_id": "T09",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T09-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-68013-8/figures/5",
+      "evidence": "Fig. 5: Evaluation of vehicle trajectory classification and speed estimation in a dynamic intersection task.",
+      "width": 2047,
+      "height": 1260,
+      "bytes": 810181,
+      "sha256": "f5550c031c406b5fa3d50a5507ffcf1d31167cf1ec18aa974392845c0df239b6",
+      "thumbnail": "assets/media/thumbs/T09-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Evaluation of vehicle trajectory classification and speed estimation in a dynamic intersection task.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T09-compressed"
+      ],
+      "paper_id": "T09",
+      "label": "Fig. 6",
+      "figure_number": 6,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T09-Fig6.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig6_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-68013-8/MediaObjects/41467_2025_68013_Fig6_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-025-68013-8/figures/6",
+      "evidence": "Fig. 6: Efficient dynamic motion analysis via ONN–AEMS hybrid pipeline.",
+      "width": 2048,
+      "height": 1671,
+      "bytes": 716947,
+      "sha256": "5ce425e3bd45111b765ee76a81b6f25b11648fe92205e22db1e24ec962eb173a",
+      "thumbnail": "assets/media/thumbs/T09-Fig6.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 6: Efficient dynamic motion analysis via ONN–AEMS hybrid pipeline.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T10-multi-speed"
+      ],
+      "paper_id": "T10",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T10-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44460-026-00101-8/MediaObjects/44460_2026_101_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44460-026-00101-8/MediaObjects/44460_2026_101_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s44460-026-00101-8/figures/3",
+      "evidence": "Fig. 3: The STT-based array for motion perception.",
+      "width": 1651,
+      "height": 1400,
+      "bytes": 922172,
+      "sha256": "64f52726f9805de60f2bee0bc8dd26134172953573af9329252b7833b2b3d302",
+      "thumbnail": "assets/media/thumbs/T10-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: The STT-based array for motion perception.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T10-multi-speed"
+      ],
+      "paper_id": "T10",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T10-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44460-026-00101-8/MediaObjects/44460_2026_101_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44460-026-00101-8/MediaObjects/44460_2026_101_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s44460-026-00101-8/figures/4",
+      "evidence": "Fig. 4: Multiple-timescale transistor with adaptive temporal factor.",
+      "width": 1519,
+      "height": 1527,
+      "bytes": 866888,
+      "sha256": "fb723066bcff1af7083814da5e1106d6bb4c7d87877c7a29f3a46db717748323",
+      "thumbnail": "assets/media/thumbs/T10-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Multiple-timescale transistor with adaptive temporal factor.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T11-night-direction"
+      ],
+      "paper_id": "T11",
+      "label": "Extended Data Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T11-Ext3.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig8_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig8_ESM.jpg",
+      "page": "https://www.nature.com/articles/s44460-026-00057-9/figures/8",
+      "evidence": "Extended Data Fig. 3 Moving direction recognition in nighttime driving.",
+      "width": 1772,
+      "height": 953,
+      "bytes": 282465,
+      "sha256": "19727142aae38dfd768d58f1cb51e4a0c33985b7c688835b8dede9a27002909a",
+      "thumbnail": "assets/media/thumbs/T11-Ext3.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 3 Moving direction recognition in nighttime driving.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T11-synthetic-cell"
+      ],
+      "paper_id": "T11",
+      "label": "Extended Data Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T11-Ext4.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig9_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig9_ESM.jpg",
+      "page": "https://www.nature.com/articles/s44460-026-00057-9/figures/9",
+      "evidence": "Extended Data Fig. 4 Dynamic cancer cell diagnosis by ONNs.",
+      "width": 2162,
+      "height": 2022,
+      "bytes": 438122,
+      "sha256": "a7c0c2097166debcd4a716ac2978dea5335ff9243f199124301fa7c262dda73b",
+      "thumbnail": "assets/media/thumbs/T11-Ext4.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 4 Dynamic cancer cell diagnosis by ONNs.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T11-night-direction",
+        "T11-3d-motion",
+        "T11-synthetic-cell"
+      ],
+      "paper_id": "T11",
+      "label": "Extended Data Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T11-Ext5.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig10_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig10_ESM.jpg",
+      "page": "https://www.nature.com/articles/s44460-026-00057-9/figures/10",
+      "evidence": "Extended Data Fig. 5 Performance comparison of the end-to-end vision system between software simulation and hardware implementation.",
+      "width": 1772,
+      "height": 466,
+      "bytes": 91237,
+      "sha256": "ce5c96a1c8e4a91ecc787a71ebab820ea65591f5cfeb0aa72211148edcfb4422",
+      "thumbnail": "assets/media/thumbs/T11-Ext5.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 5 Performance comparison of the end-to-end vision system between software simulation and hardware implementation.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T11-night-direction",
+        "T11-3d-motion"
+      ],
+      "paper_id": "T11",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T11-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44460-026-00057-9/MediaObjects/44460_2026_57_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s44460-026-00057-9/figures/5",
+      "evidence": "Fig. 5: Dynamic high-dimensional vision processing within ONN.",
+      "width": 1769,
+      "height": 1794,
+      "bytes": 1010292,
+      "sha256": "afb2aa5fa3bf5af9fa7777682c71148ef47c42b3d96ecff7112e8df0f80217e8",
+      "thumbnail": "assets/media/thumbs/T11-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Dynamic high-dimensional vision processing within ONN.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T12-gain",
+        "T12-attention"
+      ],
+      "paper_id": "T12",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T12-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-026-02747-8/MediaObjects/41563_2026_2747_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-026-02747-8/MediaObjects/41563_2026_2747_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41563-026-02747-8/figures/4",
+      "evidence": "Fig. 4: Voltage-programmed modulation of event response and spatial attention.",
+      "width": 2170,
+      "height": 1330,
+      "bytes": 419911,
+      "sha256": "e5e6f15da6192a1148de98ba9d73fa612c8a9a10abf233c7e876e24f92598f9f",
+      "thumbnail": "assets/media/thumbs/T12-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Voltage-programmed modulation of event response and spatial attention.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "T12-action"
+      ],
+      "paper_id": "T12",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/T12-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-026-02747-8/MediaObjects/41563_2026_2747_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-026-02747-8/MediaObjects/41563_2026_2747_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41563-026-02747-8/figures/5",
+      "evidence": "Fig. 5: HATC NN implementation and performance.",
+      "width": 1535,
+      "height": 1386,
+      "bytes": 985631,
+      "sha256": "31ad936a87ead393d087d5c367b183fa163e3a169a54ca271a84443244f28019",
+      "thumbnail": "assets/media/thumbs/T12-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: HATC NN implementation and performance.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V01-preprocess"
+      ],
+      "paper_id": "V01",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V01-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-019-0501-3/MediaObjects/41565_2019_501_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-019-0501-3/MediaObjects/41565_2019_501_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-019-0501-3/figures/3",
+      "evidence": "Fig. 3: Image memorization and preprocessing.",
+      "width": 1817,
+      "height": 1283,
+      "bytes": 402609,
+      "sha256": "aa9e571581c4e4a802b1bbfc5ab160d3fbeed4e3f95fa7e867dd1c35a0a3df41",
+      "thumbnail": "assets/media/thumbs/V01-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Image memorization and preprocessing.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V01-recognition"
+      ],
+      "paper_id": "V01",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V01-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-019-0501-3/MediaObjects/41565_2019_501_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-019-0501-3/MediaObjects/41565_2019_501_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-019-0501-3/figures/4",
+      "evidence": "Fig. 4: Simulations of image recognition in a neuromorphic visual system with ORRAM.",
+      "width": 1531,
+      "height": 1759,
+      "bytes": 517205,
+      "sha256": "83185139ac57214315ba866e12ed5a90c13946b9b91129ff8fe4cf0c6b62d596",
+      "thumbnail": "assets/media/thumbs/V01-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Simulations of image recognition in a neuromorphic visual system with ORRAM.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V02-classifier"
+      ],
+      "paper_id": "V02",
+      "label": "Extended Data Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V02-Ext5.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig10_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig10_ESM.jpg",
+      "page": "https://www.nature.com/articles/s41586-020-2038-x/figures/10",
+      "evidence": "Extended Data Fig. 5 Classifier training.",
+      "width": 2061,
+      "height": 2521,
+      "bytes": 343444,
+      "sha256": "6b63ceccbf77299aa98fda4cc07d5982370e6f276b1eb708b41740c04f7d0257",
+      "thumbnail": "assets/media/thumbs/V02-Ext5.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 5 Classifier training.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V02-autoencoder"
+      ],
+      "paper_id": "V02",
+      "label": "Extended Data Fig. 8",
+      "figure_number": 8,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V02-Ext8.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig13_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig13_ESM.jpg",
+      "page": "https://www.nature.com/articles/s41586-020-2038-x/figures/13",
+      "evidence": "Extended Data Fig. 8 Autoencoder photoresponsivities/weights.",
+      "width": 1482,
+      "height": 1592,
+      "bytes": 121780,
+      "sha256": "ed389e6d20ed40a3bfb87846fed98a3c17fc8028214da2e092fed86403df3a7b",
+      "thumbnail": "assets/media/thumbs/V02-Ext8.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 8 Autoencoder photoresponsivities/weights.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V02-classifier"
+      ],
+      "paper_id": "V02",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V02-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-020-2038-x/figures/3",
+      "evidence": "Fig. 3: Device operation as a classifier.",
+      "width": 1413,
+      "height": 869,
+      "bytes": 200461,
+      "sha256": "90234e23dd7a4798edd6f1f0058c7d1853b5a4c8bbc871f6f04f4ec56b50dc7c",
+      "thumbnail": "assets/media/thumbs/V02-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Device operation as a classifier.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V02-autoencoder"
+      ],
+      "paper_id": "V02",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V02-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-020-2038-x/figures/4",
+      "evidence": "Fig. 4: Device operation as an autoencoder.",
+      "width": 1405,
+      "height": 871,
+      "bytes": 196570,
+      "sha256": "75fdc307dab727630bba02790dea45be2cb824e1710cc3d96752682116532f1a",
+      "thumbnail": "assets/media/thumbs/V02-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Device operation as an autoencoder.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V02-classifier"
+      ],
+      "paper_id": "V02",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V02-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2038-x/MediaObjects/41586_2020_2038_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-020-2038-x/figures/5",
+      "evidence": "Fig. 5: Ultrafast image recognition.",
+      "width": 1045,
+      "height": 585,
+      "bytes": 61078,
+      "sha256": "53c470150cd96b31e4d04bd0de4b44f6d7ffcf42d461686b20d6f237190bc54d",
+      "thumbnail": "assets/media/thumbs/V02-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Ultrafast image recognition.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V04-denoise"
+      ],
+      "paper_id": "V04",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V04-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19806-6/MediaObjects/41467_2020_19806_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19806-6/MediaObjects/41467_2020_19806_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-020-19806-6/figures/3",
+      "evidence": "Fig. 3: Operation principle of the neuromorphic imaging device.",
+      "width": 1724,
+      "height": 1614,
+      "bytes": 403321,
+      "sha256": "90e36bbcfed0a963691dfe661bc27b4f1288e1c80ee43358f9d668f96c83156d",
+      "thumbnail": "assets/media/thumbs/V04-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Operation principle of the neuromorphic imaging device.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V04-curved"
+      ],
+      "paper_id": "V04",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V04-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19806-6/MediaObjects/41467_2020_19806_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19806-6/MediaObjects/41467_2020_19806_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-020-19806-6/figures/4",
+      "evidence": "Fig. 4: Fully integarted form of the curved neuromorphic imaging device.",
+      "width": 1740,
+      "height": 1606,
+      "bytes": 1157641,
+      "sha256": "65bf0e7d59cff634714c684df12147e4e10ecdbbd0293029de53a7c5be4242e6",
+      "thumbnail": "assets/media/thumbs/V04-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Fully integarted form of the curved neuromorphic imaging device.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V06-adaptation"
+      ],
+      "paper_id": "V06",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V06-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-022-00713-1/MediaObjects/41928_2022_713_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-022-00713-1/MediaObjects/41928_2022_713_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-022-00713-1/figures/4",
+      "evidence": "Fig. 4: Scotopic and photopic adaptation of MoS 2 phototransistor array.",
+      "width": 1538,
+      "height": 2361,
+      "bytes": 586691,
+      "sha256": "c0fb8170890fbb9bacdb1d70882c8abf550b2a19670338f11732e6a2ab2b02d8",
+      "thumbnail": "assets/media/thumbs/V06-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Scotopic and photopic adaptation of MoS 2 phototransistor array.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V07-motion-separation"
+      ],
+      "paper_id": "V07",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V07-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-021-01003-1/MediaObjects/41565_2021_1003_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-021-01003-1/MediaObjects/41565_2021_1003_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-021-01003-1/figures/3",
+      "evidence": "Fig. 3: Illustration of motion detection based on the 2D retinomorphic hardware.",
+      "width": 1011,
+      "height": 1174,
+      "bytes": 330186,
+      "sha256": "9134691578d66d558a2a12b5e3bc4f303d9e7b0b8819a1331a563bc99ac6e4f6",
+      "thumbnail": "assets/media/thumbs/V07-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Illustration of motion detection based on the 2D retinomorphic hardware.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V07-motion-separation",
+        "V07-trolley-classification"
+      ],
+      "paper_id": "V07",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V07-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-021-01003-1/MediaObjects/41565_2021_1003_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-021-01003-1/MediaObjects/41565_2021_1003_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41565-021-01003-1/figures/4",
+      "evidence": "Fig. 4: 2D retinomorphic hardware implementation for trichromatic trolley MDR.",
+      "width": 1506,
+      "height": 1983,
+      "bytes": 986305,
+      "sha256": "b79da5e7925618f33e030b00b256ca056284794e0f4395c2047d847d15a1949d",
+      "thumbnail": "assets/media/thumbs/V07-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: 2D retinomorphic hardware implementation for trichromatic trolley MDR.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V08-convolution"
+      ],
+      "paper_id": "V08",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V08-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-022-00819-6/MediaObjects/41928_2022_819_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-022-00819-6/MediaObjects/41928_2022_819_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41928-022-00819-6/figures/5",
+      "evidence": "Fig. 5: In-sensor image processing using the 3 × 3 dual-gate p–i–n photodiode network.",
+      "width": 1503,
+      "height": 1176,
+      "bytes": 802652,
+      "sha256": "b263b06f112e6e081cfdd368d9088b77127361c806fc3f3cb3d80cb76f2fd92e",
+      "thumbnail": "assets/media/thumbs/V08-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: In-sensor image processing using the 3 × 3 dual-gate p–i–n photodiode network.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V09-infrared-edge"
+      ],
+      "paper_id": "V09",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V09-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-29171-1/MediaObjects/41467_2022_29171_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-29171-1/MediaObjects/41467_2022_29171_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-022-29171-1/figures/3",
+      "evidence": "Fig. 3: bP-PPT array for imaging with in-sensor computing for edge detection.",
+      "width": 1749,
+      "height": 1319,
+      "bytes": 1351938,
+      "sha256": "c5b501a8a4878fc6f498e147313b82600532da4a05a4d15773cb947f075da16c",
+      "thumbnail": "assets/media/thumbs/V09-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: bP-PPT array for imaging with in-sensor computing for edge detection.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V09-binary-mnist"
+      ],
+      "paper_id": "V09",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V09-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-29171-1/MediaObjects/41467_2022_29171_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-29171-1/MediaObjects/41467_2022_29171_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-022-29171-1/figures/4",
+      "evidence": "Fig. 4: bP-PPT array as an optoelectronic CNN for image recognition.",
+      "width": 1936,
+      "height": 1108,
+      "bytes": 634284,
+      "sha256": "1f2e0c34782bc7771060927dbc0e12d4cb3bc1d4abc576aa48f464538525bdfe",
+      "thumbnail": "assets/media/thumbs/V09-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: bP-PPT array as an optoelectronic CNN for image recognition.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V10-encode"
+      ],
+      "paper_id": "V10",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V10-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32790-3/MediaObjects/41467_2022_32790_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32790-3/MediaObjects/41467_2022_32790_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-022-32790-3/figures/3",
+      "evidence": "Fig. 3: Multi-state optoelectronic memory operation in the single 1P-1R device and characterization and image memorization process of the fabricated 1P-1R crossbar array.",
+      "width": 1996,
+      "height": 1505,
+      "bytes": 434979,
+      "sha256": "5ef7fa69d1d960e0a41b7e610afa436ef66fa9a43e7016d61db4988b12dd15a2",
+      "thumbnail": "assets/media/thumbs/V10-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Multi-state optoelectronic memory operation in the single 1P-1R device and characterization and image memorization process of the fabricated 1P-1R crossbar array.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V10-encode",
+        "V10-digit-classification"
+      ],
+      "paper_id": "V10",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V10-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32790-3/MediaObjects/41467_2022_32790_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32790-3/MediaObjects/41467_2022_32790_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-022-32790-3/figures/4",
+      "evidence": "Fig. 4: Image memorization, encoding, and classification via an in-pixel neuromorphic computing.",
+      "width": 1926,
+      "height": 2010,
+      "bytes": 778598,
+      "sha256": "06675c2af05577af439a1d910ecb204b44da6b58d7e9a079eddb175f2a6d61cc",
+      "thumbnail": "assets/media/thumbs/V10-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Image memorization, encoding, and classification via an in-pixel neuromorphic computing.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V11-polarimetry"
+      ],
+      "paper_id": "V11",
+      "label": "Extended Data Fig. 8",
+      "figure_number": 8,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V11-Ext8.jpg",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-022-04548-w/MediaObjects/41586_2022_4548_Fig13_ESM.jpg",
+      "source_url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-022-04548-w/MediaObjects/41586_2022_4548_Fig13_ESM.jpg",
+      "page": "https://www.nature.com/articles/s41586-022-04548-w/figures/13",
+      "evidence": "Extended Data Fig. 8 Complete plots of the polarization outputs from the total 91 training and 12 test data sets.",
+      "width": 2120,
+      "height": 936,
+      "bytes": 184902,
+      "sha256": "7603a16f4ec05030629ac234ddb3baf488aa63dfad5d69b1c7be5f9fadaab811",
+      "thumbnail": "assets/media/thumbs/V11-Ext8.webp",
+      "media_role": "论文原图",
+      "caption": "Extended Data Fig. 8 Complete plots of the polarization outputs from the total 91 training and 12 test data sets.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V11-polarimetry"
+      ],
+      "paper_id": "V11",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V11-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04548-w/MediaObjects/41586_2022_4548_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04548-w/MediaObjects/41586_2022_4548_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-022-04548-w/figures/4",
+      "evidence": "Fig. 4: Principles of the neural network infrared polarimetry and wavelength detection.",
+      "width": 2149,
+      "height": 1162,
+      "bytes": 397801,
+      "sha256": "229107ac8bd2cde22f6f86eb726bb7cbb1cff28568fd413be951357b7c0c3142",
+      "thumbnail": "assets/media/thumbs/V11-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Principles of the neural network infrared polarimetry and wavelength detection.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V11-polarimetry"
+      ],
+      "paper_id": "V11",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V11-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04548-w/MediaObjects/41586_2022_4548_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04548-w/MediaObjects/41586_2022_4548_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-022-04548-w/figures/5",
+      "evidence": "Fig. 5: Intelligent light sensing by leveraging a CNN.",
+      "width": 1405,
+      "height": 1040,
+      "bytes": 285661,
+      "sha256": "fcde9c309f9f35c09c85b25745128d39b61d36d531139d3dc8896a0e7b91363a",
+      "thumbnail": "assets/media/thumbs/V11-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Intelligent light sensing by leveraging a CNN.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V12-preprocess"
+      ],
+      "paper_id": "V12",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V12-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-43944-2/MediaObjects/41467_2023_43944_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-43944-2/MediaObjects/41467_2023_43944_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-023-43944-2/figures/3",
+      "evidence": "Fig. 3: Light tuneable NPM and PPM effects and synaptic characteristics.",
+      "width": 1999,
+      "height": 2187,
+      "bytes": 490669,
+      "sha256": "509190d6d7e134cd9d30365ad9071fb87e57e83dd7e23c789f00279e11e92b10",
+      "thumbnail": "assets/media/thumbs/V12-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Light tuneable NPM and PPM effects and synaptic characteristics.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V12-preprocess",
+        "V12-three-class"
+      ],
+      "paper_id": "V12",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V12-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-43944-2/MediaObjects/41467_2023_43944_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-43944-2/MediaObjects/41467_2023_43944_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41467-023-43944-2/figures/4",
+      "evidence": "Fig. 4: Fully hardware implementation of the neuromorphic visual system based on the multimodal resistive memory arrays with ORRAM mode array for in-sensor pre-processing and the ERRAM mode array for near-sensor high-level processing.",
+      "width": 2003,
+      "height": 2191,
+      "bytes": 989757,
+      "sha256": "47d1272fd613b6b5f62e8ec73b38eb25383450f6d0cb8071ca33437b15932bd3",
+      "thumbnail": "assets/media/thumbs/V12-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Fully hardware implementation of the neuromorphic visual system based on the multimodal resistive memory arrays with ORRAM mode array for in-sensor pre-processing and the ERRAM mode array for near-sensor high-level processing.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V13-small-datasets"
+      ],
+      "paper_id": "V13",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V13-Fig3.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_Fig3_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_Fig3_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-023-06558-8/figures/3",
+      "evidence": "Fig. 3: Numerical evaluation of ACCEL performance.",
+      "width": 2143,
+      "height": 2269,
+      "bytes": 568583,
+      "sha256": "184d3d1179a5f440dfe6e03b2a88f6547a52e47898f86b2e2a542c7ae049fdf9",
+      "thumbnail": "assets/media/thumbs/V13-Fig3.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 3: Numerical evaluation of ACCEL performance.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V13-small-datasets",
+        "V13-imagenet"
+      ],
+      "paper_id": "V13",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V13-Fig4.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_Fig4_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_Fig4_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-023-06558-8/figures/4",
+      "evidence": "Fig. 4: Experimental results of ACCEL for image classification.",
+      "width": 1719,
+      "height": 2281,
+      "bytes": 731163,
+      "sha256": "b37d720adbf35b432b7a8afaa6a9cbe3c296b1d81dae74b133d41919f344152e",
+      "thumbnail": "assets/media/thumbs/V13-Fig4.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 4: Experimental results of ACCEL for image classification.",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "V13-motion-direction"
+      ],
+      "paper_id": "V13",
+      "label": "Fig. 5",
+      "figure_number": 5,
+      "kind": "exact",
+      "local_path": "assets/media/figures/V13-Fig5.png",
+      "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_Fig5_HTML.png",
+      "source_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_Fig5_HTML.png",
+      "page": "https://www.nature.com/articles/s41586-023-06558-8/figures/5",
+      "evidence": "Fig. 5: Experimental results of ACCEL for time-lapse tasks (video judgement).",
+      "width": 2014,
+      "height": 2091,
+      "bytes": 547365,
+      "sha256": "29ba2399b480d103d547b1f86feafc6b43d99525423fa17d09c2b1f2a8894629",
+      "thumbnail": "assets/media/thumbs/V13-Fig5.webp",
+      "media_role": "论文原图",
+      "caption": "Fig. 5: Experimental results of ACCEL for time-lapse tasks (video judgement).",
+      "provenance": "来源为出版方的论文图版，已按原文图号核对。"
+    },
+    {
+      "application_ids": [
+        "C01-edge-inference"
+      ],
+      "local_path": "assets/media/figures/C01-architecture.png",
+      "label": "IMX500 堆叠结构",
+      "media_role": "厂商技术说明",
+      "caption": "索尼技术演示第 7 页展示像素芯片与片上 DNN 的堆叠关系。此页介绍产品架构。",
+      "source_url": "https://www.edge-ai-vision.com/wp-content/uploads/2025/06/E3W08_Servi_Sony_2025.pdf#page=7",
+      "page": "https://www.edge-ai-vision.com/wp-content/uploads/2025/06/E3W08_Servi_Sony_2025.pdf#page=7",
+      "width": 2880,
+      "height": 1620,
+      "bytes": 886623,
+      "sha256": "127df08788282c8e013724c4b46347b4942f045a474c73aada0658c34241d1cd",
+      "thumbnail": "assets/media/thumbs/C01-architecture.webp",
+      "paper_id": "C01",
+      "url": "https://www.edge-ai-vision.com/wp-content/uploads/2025/06/E3W08_Servi_Sony_2025.pdf#page=7",
+      "provenance": "来源为厂商公开技术演示。"
+    },
+    {
+      "application_ids": [
+        "C04-stacked-dnn"
+      ],
+      "local_path": "assets/media/figures/C04-abstract.png",
+      "label": "IEDM 2024 · 41-1 摘要",
+      "media_role": "会议摘要摘页",
+      "caption": "论文作者在会议摘要中说明三片晶圆堆叠、底层 DNN 电路及 HDR 功能。",
+      "source_url": "https://ieee-iedm.org/wp-content/uploads/2026/05/IEDM2024Archive.pdf#page=131",
+      "page": "https://ieee-iedm.org/wp-content/uploads/2026/05/IEDM2024Archive.pdf#page=131",
+      "width": 1434,
+      "height": 733,
+      "bytes": 234435,
+      "sha256": "acf3bfa21327b50226f8b52f92a890cbc9d3e79415caf0fd62df69b639a3ff75",
+      "thumbnail": "assets/media/thumbs/C04-abstract.webp",
+      "paper_id": "C04",
+      "url": "https://ieee-iedm.org/wp-content/uploads/2026/05/IEDM2024Archive.pdf#page=131",
+      "provenance": "截自会议主办方公开的摘要。"
+    },
+    {
+      "application_ids": [
+        "C05-always-on"
+      ],
+      "local_path": "assets/media/figures/C05-abstract.png",
+      "label": "VLSI 2025 · C6-2 摘要",
+      "media_role": "会议摘要摘页",
+      "caption": "会议摘要记录风车式模拟边缘提取和低功耗物体识别模式。",
+      "source_url": "https://archive.vlsisymposium.org/25web/wp-content/uploads/VLSI2025_Advanceprogram0611.pdf#page=15",
+      "page": "https://archive.vlsisymposium.org/25web/wp-content/uploads/VLSI2025_Advanceprogram0611.pdf#page=15",
+      "width": 1476,
+      "height": 322,
+      "bytes": 154169,
+      "sha256": "15929477d89e904a427d4034023345a245d7d334c8d1673eb0b7305cd796b05f",
+      "thumbnail": "assets/media/thumbs/C05-abstract.webp",
+      "paper_id": "C05",
+      "url": "https://archive.vlsisymposium.org/25web/wp-content/uploads/VLSI2025_Advanceprogram0611.pdf#page=15",
+      "provenance": "截自会议主办方公开的摘要。"
+    },
+    {
+      "application_ids": [
+        "C06-multispectral"
+      ],
+      "local_path": "assets/media/figures/C06-abstract.png",
+      "label": "VLSI 2025 · C6-3 摘要",
+      "media_role": "会议摘要摘页",
+      "caption": "会议摘要记录光谱检测任务、分数权重和像素内卷积。",
+      "source_url": "https://archive.vlsisymposium.org/25web/wp-content/uploads/VLSI2025_Advanceprogram0611.pdf#page=15",
+      "page": "https://archive.vlsisymposium.org/25web/wp-content/uploads/VLSI2025_Advanceprogram0611.pdf#page=15",
+      "width": 1476,
+      "height": 294,
+      "bytes": 150862,
+      "sha256": "eeb3e1c4496d3a6c3690a4ae2315d960bfe093ca1e423c9a2f84e4c0f41cc12d",
+      "thumbnail": "assets/media/thumbs/C06-abstract.webp",
+      "paper_id": "C06",
+      "url": "https://archive.vlsisymposium.org/25web/wp-content/uploads/VLSI2025_Advanceprogram0611.pdf#page=15",
+      "provenance": "截自会议主办方公开的摘要。"
+    },
+    {
+      "application_ids": [
+        "C07-gesture",
+        "C07-lip"
+      ],
+      "local_path": "assets/media/figures/C07-results.jpg",
+      "label": "SCAMP-5 实验结果",
+      "media_role": "作者实验图",
+      "caption": "作者比较手势分类与唇读任务中的测试表现，区分硬件测量与仿真。",
+      "source_url": "https://www.computationalimaging.org/wp-content/uploads/2024/06/pixelrnn_expresults-scaled.jpg",
+      "page": "https://www.computationalimaging.org/publications/pixelrnn/",
+      "width": 2560,
+      "height": 1066,
+      "bytes": 265602,
+      "sha256": "95eae8de5de4df555d7d27a2f376ebc331743955d29b9ff88548df612e8d8527",
+      "thumbnail": "assets/media/thumbs/C07-results.webp",
+      "paper_id": "C07",
+      "url": "https://www.computationalimaging.org/wp-content/uploads/2024/06/pixelrnn_expresults-scaled.jpg",
+      "provenance": "来源为作者实验室的论文项目页。"
+    },
+    {
+      "application_ids": [
+        "C07-gesture",
+        "C07-lip"
+      ],
+      "local_path": "assets/media/figures/C07-author-poster.png",
+      "label": "PixelRNN · CVPR 2024 作者海报",
+      "media_role": "作者海报",
+      "caption": "海报展示像素内编码、手势识别和唇读任务。",
+      "source_url": "https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29566.png?t=1717023926.5004542",
+      "page": "https://cvpr.thecvf.com/virtual/2024/poster/29566",
+      "width": 5120,
+      "height": 2880,
+      "bytes": 5379190,
+      "sha256": "96958e2ae9d7830261b43948a0271ab23e5c2a8cbd004abca9da4b32590fa6b1",
+      "thumbnail": "assets/media/thumbs/C07-author-poster.webp",
+      "paper_id": "C07",
+      "url": "https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29566.png?t=1717023926.5004542",
+      "provenance": "来源为 CVPR 作者线上展位。"
+    },
+    {
+      "application_ids": [
+        "C02-segmentation"
+      ],
+      "local_path": "assets/media/figures/C02-Fig-6-3-5.jpg",
+      "label": "图 6.3.5 · 芯片的前景分割结果与实测功耗",
+      "caption": "左图并列展示原始输入、背景差分，以及腐蚀、膨胀处理后检出的前景。中上图比较各工作模式的功耗，右侧给出告警与不同视频场景的像素读出活动。",
+      "source_url": "https://iccircle.com/static/upload/img20240529101736.pdf#page=10",
+      "page": "https://ieeexplore.ieee.org/document/10454391",
+      "figure_number": "6.3.5",
+      "width": 2250,
+      "height": 1608,
+      "sha256": "c898d33acc9ffc223e5aeb56b2cd5cf9c759b73b9d68bded547493324cdea9b6",
+      "bytes": 720879,
+      "provenance": "Vohra、Gupta 与 Alioto，ISSCC 2024，论文 6.3，会议论文集印刷页 105。自第六场论文集 PDF 的图 6.3.5 提取原始内嵌 JPEG。",
+      "thumbnail": "assets/media/thumbs/C02-Fig-6-3-5.webp",
+      "media_role": "论文原图",
+      "paper_id": "C02",
+      "url": "https://iccircle.com/static/upload/img20240529101736.pdf#page=10"
+    },
+    {
+      "application_ids": [
+        "C01-edge-inference"
+      ],
+      "label": "ISSCC 2021 报告 9.6，第 10 张 · MobileNet v1 推理对照",
+      "caption": "三行分别为甜椒、纸盒和香蕉，作者并列展示传感器读出、输入张量、TensorFlow 与芯片端的分类输出。",
+      "kind": "报告原始实验结果",
+      "local_path": "assets/media/figures/C01-Eki-ISSCC2021-slide10.jpg",
+      "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7OYq9BpbVE73qdL3Hw9Na8SZ441BYFJSUZTNA81ZIywXjUADw05MNB-xKrlZ14YFRfvj_jpFVNC_7fgZeBTiwyOXlNTnGTzc0iAjwca83mn-oTi9nQ0GtCtq7JknZ6nfPQrT/s2048/s-4.JPG",
+      "page": "https://image-sensors-world.blogspot.com/2021/03/isscc-2021-on-line-sony-sensor-with.html",
+      "official_presentation": "https://underline.io/lecture/13564-9.6---a-1dash2.3inch-12.3mpixel-with-on-chip-4.97topsdashw-cnn-processor-back-illuminated-stacked-cmos-image-sensor",
+      "provenance": "Eki 等作者的 ISSCC 2021 报告 9.6。原始报告幻灯片由 Image Sensors World 转载；页面和图内页脚标明该报告。",
+      "width": 2048,
+      "height": 1086,
+      "bytes": 163757,
+      "sha256": "d33fdac2ff6676f8968d44069321c5b1809f07351a0994161c7fb20b51a875dd",
+      "media_role": "作者报告原图",
+      "thumbnail": "assets/media/thumbs/C01-Eki-ISSCC2021-slide10.webp",
+      "paper_id": "C01",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7OYq9BpbVE73qdL3Hw9Na8SZ441BYFJSUZTNA81ZIywXjUADw05MNB-xKrlZ14YFRfvj_jpFVNC_7fgZeBTiwyOXlNTnGTzc0iAjwca83mn-oTi9nQ0GtCtq7JknZ6nfPQrT/s2048/s-4.JPG"
+    },
+    {
+      "application_ids": [
+        "C01-edge-inference"
+      ],
+      "label": "ISSCC 2021 报告 9.6，第 6 张 · 像素读出与片上 CNN 的数据通路",
+      "caption": "图中标注像素阵列、列 ADC、ISP 与 CNN 处理子系统，以及张量接口和对外输出路径。",
+      "kind": "报告原始架构图",
+      "local_path": "assets/media/figures/C01-Eki-ISSCC2021-slide06.jpg",
+      "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvp9zvVmgWmx964Ewdr0ufAwponK4GUaZxIb4k5PUVn53HMYQwa7WDUvd3XBpIsQg7-YIQ2IifuLxfEYD3OdPLOjH51CPz3WbZPhCR7U9KvdSWQhkwdTPLyCZmIlysP0PyyMXc/s2048/s-2.JPG",
+      "page": "https://image-sensors-world.blogspot.com/2021/03/isscc-2021-on-line-sony-sensor-with.html",
+      "official_presentation": "https://underline.io/lecture/13564-9.6---a-1dash2.3inch-12.3mpixel-with-on-chip-4.97topsdashw-cnn-processor-back-illuminated-stacked-cmos-image-sensor",
+      "provenance": "Eki 等作者的 ISSCC 2021 报告 9.6。原始报告幻灯片由 Image Sensors World 转载；页面和图内页脚标明该报告。",
+      "width": 2048,
+      "height": 1077,
+      "bytes": 182081,
+      "sha256": "49ca101c4941281ecfcf2a33e5f347c5b0f42437425ed0100dc717f65be921d7",
+      "media_role": "作者报告原图",
+      "thumbnail": "assets/media/thumbs/C01-Eki-ISSCC2021-slide06.webp",
+      "paper_id": "C01",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvp9zvVmgWmx964Ewdr0ufAwponK4GUaZxIb4k5PUVn53HMYQwa7WDUvd3XBpIsQg7-YIQ2IifuLxfEYD3OdPLOjH51CPz3WbZPhCR7U9KvdSWQhkwdTPLyCZmIlysP0PyyMXc/s2048/s-2.JPG"
+    },
+    {
+      "application_ids": [
+        "C04-stacked-dnn"
+      ],
+      "label": "大池，应用物理 2025，图 9 · 三层堆叠芯片的实物截面和信号路径",
+      "local_path": "assets/media/figures/C04-Oike-JSAP2025-Fig9.png",
+      "source_url": "https://www.jstage.jst.go.jp/article/oubutsu/94/11/94_607/_pdf/-char/en#page=6",
+      "page": "https://doi.org/10.11470/oubutsu.94.11_607",
+      "caption": "左侧标出像素、传感器逻辑和 DNN 处理器三层，中间为穿过硅通孔及铜互连的实物截面。右侧画出像素读出、ISP 和片上 DNN 输出的连接关系。",
+      "kind": "论文对应器件的截面实测图及架构说明",
+      "provenance": "索尼半导体解决方案大池祐輔的技术讲座，第 612 页图 9。讲座正文以此图说明 Nakamura 等，IEDM 2024 报告的器件。",
+      "width": 1635,
+      "height": 723,
+      "bytes": 722038,
+      "sha256": "050fe22b5affefd5329d0f199a17bdf49af3948e3a09e787a18ff87aa03bc9e3",
+      "media_role": "厂商器件截面与架构图",
+      "thumbnail": "assets/media/thumbs/C04-Oike-JSAP2025-Fig9.webp",
+      "paper_id": "C04",
+      "url": "https://www.jstage.jst.go.jp/article/oubutsu/94/11/94_607/_pdf/-char/en#page=6"
+    },
+    {
+      "application_ids": [
+        "C01-edge-inference"
+      ],
+      "label": "大池，应用物理 2025，图 8 · 片上推理摄像机在罗马的现场示例",
+      "local_path": "assets/media/figures/C01-Oike-JSAP2025-Fig8.png",
+      "source_url": "https://www.jstage.jst.go.jp/article/oubutsu/94/11/94_607/_pdf/-char/en#page=6",
+      "page": "https://doi.org/10.11470/oubutsu.94.11_607",
+      "caption": "顶部展示搭载智能视觉传感器的街边摄像机，底部给出街景中的交通参与者检测与交通状态示例。",
+      "kind": "后续现场演示；不是 ISSCC 论文的原始结果图",
+      "provenance": "索尼半导体解决方案大池祐輔的技术讲座，第 612 页图 8。讲座正文以此图说明 Eki 等，ISSCC 2021 报告的器件。",
+      "width": 1516,
+      "height": 860,
+      "bytes": 1069635,
+      "sha256": "222766252f2748830fa2d87fa642edbc2869afe17118cb9dbc309478947139c7",
+      "media_role": "厂商后续现场演示",
+      "thumbnail": "assets/media/thumbs/C01-Oike-JSAP2025-Fig8.webp",
+      "paper_id": "C01",
+      "url": "https://www.jstage.jst.go.jp/article/oubutsu/94/11/94_607/_pdf/-char/en#page=6"
+    },
+    {
+      "application_ids": [
+        "V03-filters"
+      ],
+      "local_path": "assets/media/figures/V03-F3-print.png",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "caption": "Fig. 3. Reconfigurable retinomorphic vision sensor.",
+      "provenance": "论文 PDF 原生图像无损导出，第 5 页。",
+      "source_url": "https://physics.nju.edu.cn/njdx/DFS/file/2020/06/28/202006282301379705byx8z.pdf#page=5",
+      "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314516/figure/F3/",
+      "sha256": "659ef682ca7224d04178d76119022fb3f3439d24d48edf1630e42b0747421033",
+      "width": 1051,
+      "height": 1274,
+      "bytes": 346490,
+      "thumbnail": "assets/media/thumbs/V03-F3-print.webp",
+      "media_role": "论文原图",
+      "paper_id": "V03",
+      "url": "https://physics.nju.edu.cn/njdx/DFS/file/2020/06/28/202006282301379705byx8z.pdf#page=5"
+    },
+    {
+      "application_ids": [
+        "V03-letters"
+      ],
+      "local_path": "assets/media/figures/V03-F4-print.png",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "caption": "Fig. 4. Implementation of convolutional neural network with the retinomorphic vision sensor.",
+      "provenance": "论文 PDF 原生图像无损导出，第 5 页。",
+      "source_url": "https://physics.nju.edu.cn/njdx/DFS/file/2020/06/28/202006282301379705byx8z.pdf#page=5",
+      "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314516/figure/F4/",
+      "sha256": "3a55b00ea8bacfd2e9d3107969eb388b4ed8f4e28ec2888727cb7df086770999",
+      "width": 1051,
+      "height": 1209,
+      "bytes": 257353,
+      "thumbnail": "assets/media/thumbs/V03-F4-print.webp",
+      "media_role": "论文原图",
+      "paper_id": "V03",
+      "url": "https://physics.nju.edu.cn/njdx/DFS/file/2020/06/28/202006282301379705byx8z.pdf#page=5"
+    },
+    {
+      "application_ids": [
+        "V05-letters"
+      ],
+      "local_path": "assets/media/figures/V05-F3-print.png",
+      "label": "Fig. 3",
+      "figure_number": 3,
+      "caption": "Fig. 3. In situ training of a memristor array with optoelectronic inputs for language learning.",
+      "provenance": "按论文第 4 页的图板边界以 300 dpi 渲染，保留所有分图。",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8121431.1/PMC8121431.1.pdf#page=4",
+      "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8121431/figure/F3/",
+      "sha256": "9d9ff456ece9c8d88b487d7e1977e8161e75faaa78db63492727b831891e038a",
+      "width": 1502,
+      "height": 1429,
+      "bytes": 500072,
+      "thumbnail": "assets/media/thumbs/V05-F3-print.webp",
+      "media_role": "论文原图",
+      "paper_id": "V05",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8121431.1/PMC8121431.1.pdf#page=4"
+    },
+    {
+      "application_ids": [
+        "V05-sentences"
+      ],
+      "local_path": "assets/media/figures/V05-F4-print.png",
+      "label": "Fig. 4",
+      "figure_number": 4,
+      "caption": "Fig. 4. Recognition of sentences for language learning.",
+      "provenance": "按论文第 5 页的图板边界以 300 dpi 渲染，保留所有分图。",
+      "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8121431.1/PMC8121431.1.pdf#page=5",
+      "page": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8121431/figure/F4/",
+      "sha256": "6a37b5684c102f1ad645273b75227cb11c71fd30afebf732e8e57b48777f0341",
+      "width": 1511,
+      "height": 1314,
+      "bytes": 158123,
+      "thumbnail": "assets/media/thumbs/V05-F4-print.webp",
+      "media_role": "论文原图",
+      "paper_id": "V05",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8121431.1/PMC8121431.1.pdf#page=5"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs44460-026-00101-8/MediaObjects/44460_2026_101_MOESM4_ESM.mp4",
+      "page": "https://www.nature.com/articles/s44460-026-00101-8",
+      "title": "Supplementary Video 1 · 传感器外训练数据",
+      "application_ids": [
+        "T10-multi-speed"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/44460_2026_101_MOESM4_ESM.mp4",
+      "bytes": 37650232,
+      "sha256": "ca7df7fd2872be10c19707a2b393bb03991cc805399bf8f0e234bc876015adb7",
+      "duration": "00:00:37.55",
+      "frames": 1126,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 8016 kb/s, 30 fps, 30 tbr, 30 tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/44460_2026_101_MOESM4_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.168192,
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs44460-026-00101-8/MediaObjects/44460_2026_101_MOESM5_ESM.mp4",
+      "page": "https://www.nature.com/articles/s44460-026-00101-8",
+      "title": "Supplementary Video 2 · 光输入演示",
+      "application_ids": [
+        "T10-multi-speed"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/44460_2026_101_MOESM5_ESM.mp4",
+      "bytes": 7965746,
+      "sha256": "36d480fa9e944b83030c9820a7b6b6a93320bcd99b49312af0c078d43f448894",
+      "duration": "00:00:07.85",
+      "frames": 235,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 960x720 [SAR 1:1 DAR 4:3], 8122 kb/s, 30 fps, 30 tbr, 30 tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/44460_2026_101_MOESM5_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.187228,
+        "width": 960,
+        "height": 720
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41565-025-01973-6/MediaObjects/41565_2025_1973_MOESM2_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41565-025-01973-6",
+      "title": "Supplementary Video 1 · 三种照明下事件及重建对比",
+      "application_ids": [
+        "T08-adaptive-vision"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41565_2025_1973_MOESM2_ESM.mp4",
+      "bytes": 5193735,
+      "sha256": "9585c1d9be5b9187fe772bc6734441699bdcefbcddac73fc5d442fdae8ad1a0d",
+      "duration": "00:00:06.00",
+      "frames": 150,
+      "stream": "Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 960x540 [SAR 1:1 DAR 16:9], 6892 kb/s, 25 fps, 25 tbr, 25k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41565_2025_1973_MOESM2_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.2577,
+        "width": 960,
+        "height": 540
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-025-59935-4/MediaObjects/41467_2025_59935_MOESM3_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41467-025-59935-4",
+      "title": "Supplementary Movie · 连续二维核混合",
+      "application_ids": [
+        "T07-2d-convolution"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41467_2025_59935_MOESM3_ESM.mp4",
+      "bytes": 14670043,
+      "sha256": "270f7a307d6a5179b29821ae3f3c41031f9756037c590f01e67d008ec52acb52",
+      "duration": "00:00:13.10",
+      "frames": 393,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 1680x720, 8759 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41467_2025_59935_MOESM3_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.19623,
+        "width": 1680,
+        "height": 720
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_MOESM2_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41565-024-01794-z",
+      "title": "Supplementary Video 1 · 校车跟踪",
+      "application_ids": [
+        "T06-tracking"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41565_2024_1794_MOESM2_ESM.mp4",
+      "bytes": 1503383,
+      "sha256": "e09bcedb97dfb84f51b55237123c5abb6e65eac2b0d8e0cdf351f4bb7b58acab",
+      "duration": "00:00:03.04",
+      "frames": 76,
+      "stream": "Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, smpte170m, progressive), 384x216, 3471 kb/s, 25 fps, 25 tbr, 25k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41565_2024_1794_MOESM2_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.205334,
+        "width": 384,
+        "height": 216
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41565-024-01794-z/MediaObjects/41565_2024_1794_MOESM3_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41565-024-01794-z",
+      "title": "Supplementary Video 2 · 多目标跟踪与遮挡后再识别",
+      "application_ids": [
+        "T06-tracking"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41565_2024_1794_MOESM3_ESM.mp4",
+      "bytes": 3034808,
+      "sha256": "8ea7b70467a8f802b8d61d2df8aaa3f08c7c2b620ede0e5adafc625ab94d5c37",
+      "duration": "00:00:10.44",
+      "frames": 261,
+      "stream": "Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, smpte170m, progressive), 256x144, 1959 kb/s, 25 fps, 25 tbr, 25k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41565_2024_1794_MOESM3_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.206626,
+        "width": 256,
+        "height": 144
+      }
+    },
+    {
+      "url": "https://www.youtube.com/embed/grlIwYMcmG0?si=cwJ6S_sCB7FSoOre",
+      "page": "https://www.computationalimaging.org/publications/pixelrnn/",
+      "title": "PixelRNN · 作者5分钟技术讲解",
+      "application_ids": [
+        "C07-gesture",
+        "C07-lip"
+      ],
+      "status": "online",
+      "verification": "Author-hosted embed. No local copy."
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-023-06558-8/MediaObjects/41586_2023_6558_MOESM2_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41586-023-06558-8",
+      "title": "Supplementary Video 1 · 非相干光下方向判别",
+      "application_ids": [
+        "V13-motion-direction"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41586_2023_6558_MOESM2_ESM.mp4",
+      "bytes": 11763763,
+      "sha256": "59e56e4b56e2b69668c2ff2df764779846594d4d9e8f696eaeade8296426a392",
+      "duration": "00:00:09.04",
+      "frames": 271,
+      "stream": "Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 10042 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41586_2023_6558_MOESM2_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.202032,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_MOESM4_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41467-023-37886-y",
+      "title": "Supplementary Movie 1 · 对称目标向右运动",
+      "application_ids": [
+        "T02-prediction"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41467_2023_37886_MOESM4_ESM.mp4",
+      "bytes": 869451,
+      "sha256": "fb8d2f0bc5b3f6b7e12a65f444ca6e46b06cc4b1504647700cfeda25122f517d",
+      "duration": "00:00:30.06",
+      "frames": 900,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Constrained Baseline) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 148 kb/s, 30 fps, 30 tbr, 30k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41467_2023_37886_MOESM4_ESM.jpg",
+      "review": "作者比较不同运动速度下的预测结果。对称目标向右运动。",
+      "type": "mp4",
+      "browser_playback": {
+        "seconds": 0.203989,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_MOESM5_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41467-023-37886-y",
+      "title": "Supplementary Movie 2 · 对称目标向左运动",
+      "application_ids": [
+        "T02-prediction"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41467_2023_37886_MOESM5_ESM.mp4",
+      "bytes": 637311,
+      "sha256": "7d9c94d947667d00b9430d2a373a06ca29abbf8876763c77d88a9b4485b0e270",
+      "duration": "00:00:16.26",
+      "frames": 486,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Constrained Baseline) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 230 kb/s, 30 fps, 30 tbr, 30k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41467_2023_37886_MOESM5_ESM.jpg",
+      "review": "作者比较不同运动速度下的预测结果。对称目标向左运动。",
+      "type": "mp4",
+      "browser_playback": {
+        "seconds": 0.206352,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_MOESM6_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41467-023-37886-y",
+      "title": "Supplementary Movie 3 · 向右行驶的汽车",
+      "application_ids": [
+        "T02-traffic"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41467_2023_37886_MOESM6_ESM.mp4",
+      "bytes": 581230,
+      "sha256": "02f6324130931907fdbc429f0a7f4a22ad37e22b0f67e7b4c878b02c7b3b081b",
+      "duration": "00:00:12.05",
+      "frames": 360,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Constrained Baseline) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 284 kb/s, 30 fps, 30 tbr, 30k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41467_2023_37886_MOESM6_ESM.jpg",
+      "review": "作者比较不同运动速度下的预测结果。向右行驶的汽车。",
+      "type": "mp4",
+      "browser_playback": {
+        "seconds": 0.20607,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-37886-y/MediaObjects/41467_2023_37886_MOESM7_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41467-023-37886-y",
+      "title": "Supplementary Movie 4 · 向左运动的人形机器人",
+      "application_ids": [
+        "T02-traffic"
+      ],
+      "status": "local",
+      "local_path": "assets/media/videos/41467_2023_37886_MOESM7_ESM.mp4",
+      "bytes": 777817,
+      "sha256": "1654b30a68d679aa0634c72beec8942db4e716033ab8fce442056fa76e91eb53",
+      "duration": "00:00:19.56",
+      "frames": 585,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Constrained Baseline) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 223 kb/s, 30 fps, 30 tbr, 30k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41467_2023_37886_MOESM7_ESM.jpg",
+      "review": "作者比较不同运动速度下的预测结果。向左运动的人形机器人。",
+      "type": "mp4",
+      "browser_playback": {
+        "seconds": 0.20004,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_MOESM2_ESM.mp4",
+      "official_href": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_MOESM2_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41565-023-01379-2",
+      "title": "Supplementary Video 1 · 运动小球数据集的典型动作",
+      "application_ids": [
+        "T01-action"
+      ],
+      "review": "论文补充材料标注为运动小球数据库的原始动作示例。",
+      "kind": "输入数据",
+      "type": "mp4",
+      "status": "local",
+      "local_path": "assets/media/videos/41565_2023_1379_MOESM2_ESM.mp4",
+      "bytes": 13416721,
+      "sha256": "57cea1703e8e254312611b0db1c55647593abf6435a15a689b9d55e155eb115d",
+      "duration": "00:00:10.43",
+      "frames": 316,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Constrained Baseline) (avc1 / 0x31637661), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 10124 kb/s, 30.40 fps, 30 tbr, 10000k tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41565_2023_1379_MOESM2_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.180069,
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_MOESM3_ESM.mp4",
+      "official_href": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41565-023-01379-2/MediaObjects/41565_2023_1379_MOESM3_ESM.mp4",
+      "page": "https://www.nature.com/articles/s41565-023-01379-2",
+      "title": "Supplementary Video 2 · 向左运动的小球及其神经形态识别",
+      "application_ids": [
+        "T01-action"
+      ],
+      "review": "作者展示向左运动小球的时间演化和相应的神经形态识别结果。",
+      "kind": "动作识别演示",
+      "type": "mp4",
+      "status": "local",
+      "local_path": "assets/media/videos/41565_2023_1379_MOESM3_ESM.mp4",
+      "bytes": 85154,
+      "sha256": "ef4d90b5a67e226c20b398e64eb50686fe5022620b5811e4c5c15ffcc46a3987",
+      "duration": "00:00:02.93",
+      "frames": 28,
+      "stream": "Stream #0:0[0x1](und): Video: h264 (Constrained Baseline) (avc1 / 0x31637661), yuv420p(progressive), 722x794, 163 kb/s, SAR 1:1 DAR 361:397, 10.36 fps, 10 tbr, 10240 tbn (default)\r",
+      "verification": "Publisher MP4. Full video stream decoded with FFmpeg and -xerror.",
+      "poster_path": "assets/media/videos/41565_2023_1379_MOESM3_ESM.jpg",
+      "browser_playback": {
+        "seconds": 0.20007,
+        "width": 722,
+        "height": 794
+      }
+    }
+  ]
+}
